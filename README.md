@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FC00FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Swapnil+Shaw!;Flutter%20%7C%20AWS%20%7C%20Cloud%20%7C%20Full-Stack%20Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FC00FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Swapnil+Shaw!;FLUTF%20%7C%20FLUTTER%20%7C%20AWS%20%7C%20Cloud%20%7C%20Full-Stack%20Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 
